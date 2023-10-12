@@ -1,0 +1,8 @@
+README
+setup.py
+ex4/__init__.py
+ex4.egg-info/PKG-INFO
+ex4.egg-info/SOURCES.txt
+ex4.egg-info/dependency_links.txt
+ex4.egg-info/top_level.txt
+scripts/ex4_script
