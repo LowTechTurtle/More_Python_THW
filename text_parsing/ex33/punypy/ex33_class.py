@@ -11,7 +11,7 @@ class VeryPunyPyParser(object):
 
         elif first == 'NAME':
             name = self.scanner.match('NAME')
-            second = self.peek()
+            second = self.scanner.peek()
 
             if second == 'LPAREN':
                 return self.function_call(name)
@@ -59,7 +59,13 @@ class VeryPunyPyParser(object):
         right = self.expression()
         return {'type': 'PLUS', 'left': left, 'right': right}
 
+    def function_call(self, name):
+        self.scanner.match('LPAREN')
+        params = self.parameters()
+        self.scanner.match('RPAREN')
+        return {'type': 'FUNCCALL', 'name': name, 'params': params}
+
+
     def parse(self):
         while self.scanner.tokens:
             self.parsed.append(self.root())
-        return results
