@@ -1,0 +1,58 @@
+total 30824
+drwx------ 28 turtle turtle     4096 Jul  8 17:50 .
+-rw-------  1 turtle turtle       55 Jul  5 15:27 .Xauthority
+-rw-r--r--  1 turtle turtle     2833 Mar  5 20:24 .bashrc
+-rw-------  1 turtle turtle    10100 Jul  8 17:28 .bash_history
+-rw-r--r--  1 turtle turtle       21 Jan  9  2022 .bash_logout
+-rw-r--r--  1 turtle turtle       57 Dec 18  2022 .bash_profile
+drwxr-xr-x 35 turtle turtle     4096 Jul  5 21:47 .cache
+drwxr-xr-x 39 turtle turtle     4096 Jul  8 09:30 .config
+-rwxr-xr--  1 turtle turtle       72 Jul  8 15:26 .fehbg
+drwx------  2 turtle turtle     4096 Dec 18  2022 .gnupg
+-rw-r--r--  1 turtle turtle      270 Jul  5 21:35 .gtkrc-2.0
+drwxr-xr-x  4 turtle turtle     4096 Jun 17 18:00 .java
+drwxr-xr-x  7 turtle turtle     4096 May 27 09:30 .local
+drwxr-xr-x  2 turtle turtle     4096 Mar  8 13:13 .lyrics
+drwx------  4 turtle turtle     4096 Dec 18  2022 .mozilla
+drwx------  3 turtle turtle     4096 Dec 18  2022 .pki
+-rw-------  1 turtle turtle     5986 Jul  8 17:19 .python_history
+drwxr-xr-x  2 turtle turtle     4096 Dec 20  2022 .steam
+lrwxrwxrwx  1 turtle turtle       31 Dec 20  2022 .steampath -> /home/turtle/.steam/sdk32/steam
+lrwxrwxrwx  1 turtle turtle       29 Dec 20  2022 .steampid -> /home/turtle/.steam/steam.pid
+drwxr-xr-x  3 turtle turtle     4096 May 27 16:59 .venvs
+drwxr-xr-x  2 turtle turtle     4096 Jul  8 17:19 .vim
+-rw-------  1 turtle turtle    37902 Jul  8 17:50 .viminfo
+-rw-r--r--  1 turtle turtle      180 Dec 18  2022 .wget-hsts
+drwxr-xr-x  2 turtle turtle     4096 May 24 16:20 Desktop
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Documents
+drwxr-xr-x 10 turtle turtle     4096 Jul  5 15:40 Downloads
+-rw-r--r--  1 turtle turtle  2047542 Jun 15 15:40 Introduction to networking.pdf
+-rw-r--r--  1 turtle turtle  2740086 Jul  2 10:44 Learn more python 3 the hard way.pdf
+-rw-r--r--  1 turtle turtle 16354056 Apr  2 18:38 Learn_Python_3_the_Hard_Way_A_Very_Simple_Introduction_to_the_Terrifyingly.pdf
+drwxr-xr-x  2 turtle turtle     4096 Mar  8 13:02 Music
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Pictures
+-rw-r--r--  1 turtle turtle    94417 Feb  3 08:31 Plane.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.srt
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Public
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Templates
+-rw-r--r--  1 turtle turtle  3056648 Jul  1 20:36 The_Linux_Command_Line_A_Complete_Introduction,_2nd_Edition_by_William.pdf
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Videos
+-rw-r--r--  1 turtle turtle    33141 Mar  8 12:54 archlogo
+drwxr-xr-x 13 turtle turtle     4096 May  8 18:54 clone
+-rw-r--r--  1 turtle turtle     3670 Jul  8 13:01 ex8.py
+-rw-r--r--  1 turtle turtle      206 Jul  8 10:17 file.py
+-rw-------  1 turtle turtle      230 Mar  5 12:12 kwinrc
+-rw-------  1 turtle turtle      108 Dec 18  2022 kwinrulesrc
+drwxr-xr-x  3 turtle turtle     4096 Jul  8 17:50 more_hardway_python
+drwxr-xr-x  2 turtle turtle     4096 Jul  7 16:18 playground
+-rw-r--r--  1 turtle turtle   338491 May 17 21:52 regex_1.png
+-rw-r--r--  1 turtle turtle       67 May 22 13:56 savefile_for_project_turtle.bak
+-rw-r--r--  1 turtle turtle     4765 May  1 11:51 shjttygame.py
+drwxr-xr-x  8 turtle turtle     4096 Jul  4 10:16 simple_proj
+-rw-r--r--  1 turtle turtle     3728 Jul  8 13:01 standardin
+drwxr-xr-x  8 turtle turtle     4096 Jul  4 15:06 sth_for_python
+-rw-r--r--  1 turtle turtle      165 Jun  7 10:41 test
+drwxr-xr-x  3 turtle turtle     4096 Jun  8 11:43 tests.bak
+-rw-r--r--  1 turtle turtle       77 Jul  2 17:47 try_one.py
+-rw-r--r--  1 turtle turtle     1952 May 28 15:15 vim_note
+-rw-r--r--  1 turtle turtle  6635618 Dec 18  2022 wallhaven-kx79w6.png
+drwxr-xr-x  2 turtle turtle     4096 Jun  2 15:35 __pycache__

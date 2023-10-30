@@ -1,0 +1,31 @@
+total 30676
+-rw-r--r--  1 turtle turtle    33141 Mar  8 12:54 archlogo
+drwxr-xr-x 13 turtle turtle     4096 May  8 18:54 clone
+drwxr-xr-x  2 turtle turtle     4096 May 24 16:20 Desktop
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Documents
+drwxr-xr-x 10 turtle turtle     4096 Jul  5 15:40 Downloads
+-rw-r--r--  1 turtle turtle       43 Jul  4 15:23 file.py
+-rw-r--r--  1 turtle turtle  2047542 Jun 15 15:40 Introduction to networking.pdf
+-rw-------  1 turtle turtle      230 Mar  5 12:12 kwinrc
+-rw-------  1 turtle turtle      108 Dec 18  2022 kwinrulesrc
+-rw-r--r--  1 turtle turtle  2740086 Jul  2 10:44 Learn more python 3 the hard way.pdf
+-rw-r--r--  1 turtle turtle 16354056 Apr  2 18:38 Learn_Python_3_the_Hard_Way_A_Very_Simple_Introduction_to_the_Terrifyingly.pdf
+drwxr-xr-x  3 turtle turtle     4096 Jul  5 20:54 more_hardway_python
+drwxr-xr-x  2 turtle turtle     4096 Mar  8 13:02 Music
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Pictures
+-rw-r--r--  1 turtle turtle    94417 Feb  3 08:31 Plane.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.srt
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Public
+drwxr-xr-x  2 turtle turtle     4096 Jun  2 15:35 __pycache__
+-rw-r--r--  1 turtle turtle   338491 May 17 21:52 regex_1.png
+-rw-r--r--  1 turtle turtle       67 May 22 13:56 savefile_for_project_turtle.bak
+-rw-r--r--  1 turtle turtle     4765 May  1 11:51 shjttygame.py
+drwxr-xr-x  8 turtle turtle     4096 Jul  4 10:16 simple_proj
+drwxr-xr-x  8 turtle turtle     4096 Jul  4 15:06 sth_for_python
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Templates
+-rw-r--r--  1 turtle turtle      165 Jun  7 10:41 test
+drwxr-xr-x  3 turtle turtle     4096 Jun  8 11:43 tests.bak
+-rw-r--r--  1 turtle turtle  3056648 Jul  1 20:36 The_Linux_Command_Line_A_Complete_Introduction,_2nd_Edition_by_William.pdf
+-rw-r--r--  1 turtle turtle       77 Jul  2 17:47 try_one.py
+drwxr-xr-x  2 turtle turtle     4096 Dec 18  2022 Videos
+-rw-r--r--  1 turtle turtle     1952 May 28 15:15 vim_note
+-rw-r--r--  1 turtle turtle  6635618 Dec 18  2022 wallhaven-kx79w6.png
